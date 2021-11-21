@@ -15,7 +15,7 @@ build_site is just a dummy name of the utility to be built.
 The main aim of this utility will be to test any model by creating a website directly from the command line. The website should be designed in a way so that users can provide the 
 input on the web and the predicted output should be shown on the website. 
 
-#### Technolgies to use
+### Technolgies to use
 You can use whatever tech you want including any opensource library or packages.
 
 ##### What to include in the proposal ?
